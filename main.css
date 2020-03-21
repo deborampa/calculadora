@@ -1,3 +1,8 @@
 .resultado {
     margin-top: 60px;
+    text-align: center;
+}
+
+.titulo h2 {
+    margin-top: 30px;
 }
